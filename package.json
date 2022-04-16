@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "jsdom": "^19.0.0",
+    "json-as-xlsx": "^2.4.0",
+    "json2xls": "^0.1.2",
+    "node-json-xlsx": "^0.2.2",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}

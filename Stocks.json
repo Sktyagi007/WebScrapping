@@ -1,0 +1,282 @@
+[
+  { "Name": "Reliance", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "TCS", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "HDFC Bank", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Infosys", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "ICICI Bank", "fiftyTwoWeekHigh": 859.7, "fiftyTwoWeeklow": 531 },
+  { "Name": "HUL", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "HDFC", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "SBI", "fiftyTwoWeekHigh": 549.05, "fiftyTwoWeeklow": 321.15 },
+  {
+    "Name": "Bajaj Finance",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Bharti Airtel",
+    "fiftyTwoWeekHigh": 781.9,
+    "fiftyTwoWeeklow": 505.07
+  },
+  {
+    "Name": "Kotak Mahindra",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Adani Green Ene",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 860.2
+  },
+  { "Name": "Wipro", "fiftyTwoWeekHigh": 739.8, "fiftyTwoWeeklow": 412.75 },
+  { "Name": "HCL Tech", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": 891.25 },
+  { "Name": "ITC", "fiftyTwoWeekHigh": 265.3, "fiftyTwoWeeklow": 199.1 },
+  { "Name": "Asian Paints", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  {
+    "Name": "Adani Total Gas",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 772.95
+  },
+  { "Name": "Adani Trans", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": 860.5 },
+  {
+    "Name": "Bajaj Finserv",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Avenue Supermar",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "Larsen", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Axis Bank", "fiftyTwoWeekHigh": 866.6, "fiftyTwoWeeklow": 626.4 },
+  {
+    "Name": "Adani Enterpris",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Maruti Suzuki",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Titan Company",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "Sun Pharma", "fiftyTwoWeekHigh": 940.6, "fiftyTwoWeeklow": 592.6 },
+  { "Name": "ONGC", "fiftyTwoWeekHigh": 194.6, "fiftyTwoWeeklow": 97.45 },
+  {
+    "Name": "UltraTechCement",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "Adani Ports", "fiftyTwoWeekHigh": 901, "fiftyTwoWeeklow": 638 },
+  { "Name": "JSW Steel", "fiftyTwoWeekHigh": 776.5, "fiftyTwoWeeklow": 503.65 },
+  { "Name": "Nestle", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Tata Steel", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": 837.4 },
+  {
+    "Name": "Power Grid Corp",
+    "fiftyTwoWeekHigh": 234.55,
+    "fiftyTwoWeeklow": 148.88
+  },
+  { "Name": "Vedanta", "fiftyTwoWeekHigh": 425, "fiftyTwoWeeklow": 209.8 },
+  {
+    "Name": "Tata Motors",
+    "fiftyTwoWeekHigh": 536.5,
+    "fiftyTwoWeeklow": 268.5
+  },
+  {
+    "Name": "Tech Mahindra",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 936.85
+  },
+  { "Name": "NTPC", "fiftyTwoWeekHigh": 152.1, "fiftyTwoWeeklow": 97.05 },
+  { "Name": "Hind Zinc", "fiftyTwoWeekHigh": 407.9, "fiftyTwoWeeklow": 275 },
+  { "Name": "Hindalco", "fiftyTwoWeekHigh": 636, "fiftyTwoWeeklow": 331.6 },
+  { "Name": "Pidilite Ind", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "HDFC Life", "fiftyTwoWeekHigh": 775.65, "fiftyTwoWeeklow": 497.3 },
+  { "Name": "Divis Labs", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  {
+    "Name": "Coal India",
+    "fiftyTwoWeekHigh": 203.85,
+    "fiftyTwoWeeklow": 123.45
+  },
+  { "Name": "IOC", "fiftyTwoWeekHigh": 141.75, "fiftyTwoWeeklow": 86.7 },
+  { "Name": "Grasim", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  {
+    "Name": "SBI Life Insura",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 865.2
+  },
+  { "Name": "L&T Infotech", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Bajaj Auto", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "M&M", "fiftyTwoWeekHigh": 978.9, "fiftyTwoWeeklow": 671 },
+  { "Name": "DLF", "fiftyTwoWeekHigh": 449.8, "fiftyTwoWeeklow": 231.95 },
+  { "Name": "Dabur India", "fiftyTwoWeekHigh": 658.75, "fiftyTwoWeeklow": 502 },
+  {
+    "Name": "Shree Cements",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Adani Power",
+    "fiftyTwoWeekHigh": 232.9,
+    "fiftyTwoWeeklow": 69.95
+  },
+  { "Name": "Tata Power", "fiftyTwoWeekHigh": 275.2, "fiftyTwoWeeklow": 89.95 },
+  { "Name": "Siemens", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  {
+    "Name": "FSN E-Co Nykaa",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "Cipla", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": 806.2 },
+  { "Name": "BPCL", "fiftyTwoWeekHigh": 503, "fiftyTwoWeeklow": 331 },
+  { "Name": "SRF", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Britannia", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "SBI Card", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": 712.35 },
+  {
+    "Name": "Godrej Consumer",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 660.2
+  },
+  {
+    "Name": "Havells India",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 958.35
+  },
+  {
+    "Name": "Interglobe Avi",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "IndusInd Bank",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 811.1
+  },
+  { "Name": "Adani Wilmar", "fiftyTwoWeekHigh": 580.2, "fiftyTwoWeeklow": 221 },
+  {
+    "Name": "TATA Cons. Prod",
+    "fiftyTwoWeekHigh": 889,
+    "fiftyTwoWeeklow": 614.25
+  },
+  {
+    "Name": "ICICI Prudentia",
+    "fiftyTwoWeekHigh": 724.5,
+    "fiftyTwoWeeklow": 430
+  },
+  { "Name": "Mindtree", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  {
+    "Name": "Dr Reddys Labs",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "GAIL", "fiftyTwoWeekHigh": 171.35, "fiftyTwoWeeklow": 125.2 },
+  {
+    "Name": "Berger Paints",
+    "fiftyTwoWeekHigh": 872,
+    "fiftyTwoWeeklow": 620.55
+  },
+  { "Name": "Marico", "fiftyTwoWeekHigh": 606, "fiftyTwoWeeklow": 399.35 },
+  {
+    "Name": "Eicher Motors",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Bajaj Holdings",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "United Spirits",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 507.6
+  },
+  {
+    "Name": "ICICI Lombard ",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "Zomato", "fiftyTwoWeekHigh": 169.1, "fiftyTwoWeeklow": 75.55 },
+  { "Name": "IRCTC", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": 308.2 },
+  {
+    "Name": "Motherson Sumi",
+    "fiftyTwoWeekHigh": 269,
+    "fiftyTwoWeeklow": 119.55
+  },
+  {
+    "Name": "Apollo Hospital",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  { "Name": "TML-D", "fiftyTwoWeekHigh": 298.5, "fiftyTwoWeeklow": 124 },
+  {
+    "Name": "Ambuja Cements",
+    "fiftyTwoWeekHigh": 442.95,
+    "fiftyTwoWeeklow": 274
+  },
+  { "Name": "MphasiS", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Info Edge", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "UPL", "fiftyTwoWeekHigh": 864.75, "fiftyTwoWeeklow": 581.35 },
+  {
+    "Name": "Bank of Baroda",
+    "fiftyTwoWeekHigh": 118.85,
+    "fiftyTwoWeeklow": 61.8
+  },
+  {
+    "Name": "INDUS TOWERS",
+    "fiftyTwoWeekHigh": 332.6,
+    "fiftyTwoWeeklow": 194.25
+  },
+  {
+    "Name": "Chola Invest.",
+    "fiftyTwoWeekHigh": 737.95,
+    "fiftyTwoWeeklow": 469.75
+  },
+  {
+    "Name": "Macrotech Dev",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 421.15
+  },
+  { "Name": "JSW Energy", "fiftyTwoWeekHigh": 408.7, "fiftyTwoWeeklow": 85.1 },
+  {
+    "Name": "Jindal Steel",
+    "fiftyTwoWeekHigh": 557.75,
+    "fiftyTwoWeeklow": 340.1
+  },
+  { "Name": "Gland", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  { "Name": "Tata Elxsi", "fiftyTwoWeekHigh": null, "fiftyTwoWeeklow": null },
+  {
+    "Name": "Muthoot Finance",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "L&T Technology",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Piramal Enter",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": null
+  },
+  {
+    "Name": "Bharat Elec",
+    "fiftyTwoWeekHigh": 227.95,
+    "fiftyTwoWeeklow": 120.55
+  },
+  {
+    "Name": "Hindustan Aeron",
+    "fiftyTwoWeekHigh": null,
+    "fiftyTwoWeeklow": 925
+  },
+  {
+    "Name": "Bandhan Bank",
+    "fiftyTwoWeekHigh": 364.85,
+    "fiftyTwoWeeklow": 229.65
+  }
+]
